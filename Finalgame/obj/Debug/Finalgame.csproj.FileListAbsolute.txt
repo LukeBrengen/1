@@ -1,0 +1,23 @@
+C:\Users\Miggi\Desktop\Finalgame\Finalgame\bin\Debug\Finalgame.exe.config
+C:\Users\Miggi\Desktop\Finalgame\Finalgame\bin\Debug\Finalgame.exe
+C:\Users\Miggi\Desktop\Finalgame\Finalgame\bin\Debug\Finalgame.pdb
+C:\Users\Miggi\Desktop\Finalgame\Finalgame\obj\Debug\Finalgame.csproj.AssemblyReference.cache
+C:\Users\Miggi\Desktop\Finalgame\Finalgame\obj\Debug\Finalgame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miggi\Desktop\Finalgame\Finalgame\obj\Debug\Finalgame.csproj.CoreCompileInputs.cache
+C:\Users\Miggi\Desktop\Finalgame\Finalgame\obj\Debug\Finalgame.exe
+C:\Users\Miggi\Desktop\Finalgame\Finalgame\obj\Debug\Finalgame.pdb
+C:\Users\Miggi\Desktop\Mystery-Mansion Game\Finalgame\Finalgame\bin\Debug\Finalgame.exe.config
+C:\Users\Miggi\Desktop\Mystery-Mansion Game\Finalgame\Finalgame\bin\Debug\Finalgame.exe
+C:\Users\Miggi\Desktop\Mystery-Mansion Game\Finalgame\Finalgame\bin\Debug\Finalgame.pdb
+C:\Users\Miggi\Desktop\Mystery-Mansion Game\Finalgame\Finalgame\obj\Debug\Finalgame.csproj.AssemblyReference.cache
+C:\Users\Miggi\Desktop\Mystery-Mansion Game\Finalgame\Finalgame\obj\Debug\Finalgame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miggi\Desktop\Mystery-Mansion Game\Finalgame\Finalgame\obj\Debug\Finalgame.csproj.CoreCompileInputs.cache
+C:\Users\Miggi\Desktop\Mystery-Mansion Game\Finalgame\Finalgame\obj\Debug\Finalgame.exe
+C:\Users\Miggi\Desktop\Mystery-Mansion Game\Finalgame\Finalgame\obj\Debug\Finalgame.pdb
+C:\Users\Praktikum\Desktop\Mystery-Mansion-Game-3\Mystery-Mansion Game\Finalgame\Finalgame\bin\Debug\Finalgame.exe.config
+C:\Users\Praktikum\Desktop\Mystery-Mansion-Game-3\Mystery-Mansion Game\Finalgame\Finalgame\bin\Debug\Finalgame.exe
+C:\Users\Praktikum\Desktop\Mystery-Mansion-Game-3\Mystery-Mansion Game\Finalgame\Finalgame\bin\Debug\Finalgame.pdb
+C:\Users\Praktikum\Desktop\Mystery-Mansion-Game-3\Mystery-Mansion Game\Finalgame\Finalgame\obj\Debug\Finalgame.csproj.AssemblyReference.cache
+C:\Users\Praktikum\Desktop\Mystery-Mansion-Game-3\Mystery-Mansion Game\Finalgame\Finalgame\obj\Debug\Finalgame.csproj.CoreCompileInputs.cache
+C:\Users\Praktikum\Desktop\Mystery-Mansion-Game-3\Mystery-Mansion Game\Finalgame\Finalgame\obj\Debug\Finalgame.exe
+C:\Users\Praktikum\Desktop\Mystery-Mansion-Game-3\Mystery-Mansion Game\Finalgame\Finalgame\obj\Debug\Finalgame.pdb
